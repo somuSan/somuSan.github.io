@@ -29,3 +29,12 @@ Solution of these porblems:
 	- Do lots of paper implimentation
 	- Do lots of complex projects
 	- Learn bit about computer architectures
+
+
+### My motivation toward research:
+- Problem solving
+- some ppl are doing research for the sake of getting a job, or publishing more 
+papers but people who are there to solve problem. Give a new path for solution, 
+that is simple but at the same time elegent are the follk like whome I wanna be. 
+- do things that are impactfull. Helping people. Making confribution to knowledge.
+- Rl can teach us humans.
