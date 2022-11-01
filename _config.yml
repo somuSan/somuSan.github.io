@@ -6,18 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: Overcount
+title: myself
 
 # Your name to show in the footer
-author: Soumyadip Sarkar
+author: somuself
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Blog: "/"
-  Hire me: "https://bit.ly/vcvsomusan"
-  Art Gallery: "https://soumya997.notion.site/My-Art-Gallery-4dbd6f5e4dd34de3b4203421dce07014"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,23 +39,23 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "soumya997.sarkar@gmail.com"
+  email: "somusan997@gmail.com"
   # facebook: deanattali
-  github: soumya997
-  twitter: somuSan_
+  github: somuSan
+  twitter: somu5an
   # patreon: DeanAttali
-  youtube: "channel/UCej1NaGtqV5vBFYtMgZAGdg"
+  # youtube: "channel/UCej1NaGtqV5vBFYtMgZAGdg"
 #  medium: yourname
 #  reddit: yourname
-  linkedin: soumyadip-sarkar-173901183
+  # linkedin: soumyadip-sarkar-173901183
 #  xing: yourname
-  stackoverflow: "12568833/soumyadip-sarkar"
+  # stackoverflow: "12568833/soumyadip-sarkar"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-  twitch: somusan
+  # twitch: somusan
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
@@ -68,7 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -137,7 +134,8 @@ footer-col: "#C5FCF2"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "UA-198497583-1"
+
+# google_analytics: "UA-198497583-1"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
@@ -156,8 +154,8 @@ google_analytics: "UA-198497583-1"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "anime-life-disqus"
-comments: true
+# disqus: "anime-life-disqus"
+# comments: true
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
 
